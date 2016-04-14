@@ -5,8 +5,5 @@ Initially Chatbot will be the basis of auto-responding bots coded in Swift, for 
 
 I am open to collaborating with others.  Get in touch if you would like to contribute.  
 
--The messages/responses will be saved in a database in a searchable manner, 
--Saved responses will be used as responses triggered by keywords in user messages.  
--Users will be able to create their own responses to keywords and questions.  
--Bots will have name, photo, and description (Mini Profile) so users can create who/whatever they like.  
+
 
